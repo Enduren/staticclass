@@ -1,0 +1,14 @@
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\bin\Debug\netcoreapp3.1\staticclatt.exe
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\bin\Debug\netcoreapp3.1\staticclatt.deps.json
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\bin\Debug\netcoreapp3.1\staticclatt.runtimeconfig.json
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\bin\Debug\netcoreapp3.1\staticclatt.runtimeconfig.dev.json
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\bin\Debug\netcoreapp3.1\staticclatt.dll
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\bin\Debug\netcoreapp3.1\staticclatt.pdb
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\obj\Debug\netcoreapp3.1\staticclatt.csproj.AssemblyReference.cache
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\obj\Debug\netcoreapp3.1\staticclatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\obj\Debug\netcoreapp3.1\staticclatt.AssemblyInfoInputs.cache
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\obj\Debug\netcoreapp3.1\staticclatt.AssemblyInfo.cs
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\obj\Debug\netcoreapp3.1\staticclatt.csproj.CoreCompileInputs.cache
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\obj\Debug\netcoreapp3.1\staticclatt.dll
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\obj\Debug\netcoreapp3.1\staticclatt.pdb
+C:\Users\dtenn\Desktop\SoloC#\staticclatt\staticclatt\obj\Debug\netcoreapp3.1\staticclatt.genruntimeconfig.cache
